@@ -5,11 +5,36 @@ body{
     background-color: #237903;
 }
 
+h3{
+    text-transform: uppercase;
+    font-size: 30px;
+    text-shadow: 1px 12px 4px #00000052, 1px -12px 4px #00000052;
+}
+
 .quem-somos{
     background-color: #8087FC;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .margin{
     padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #8cff9f;
+    color: rgb(4, 24, 0);
+}
+
+.servicos{
+    background-color: #dce9e9;
+}
+
+.servicos img{
+    height: 80%;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
 }
