@@ -16,6 +16,10 @@ h3{
     color: rgb(255, 255, 255);
 }
 
+.quem-somos img{
+    max-width: 100%;
+}
+
 .margin{
     padding-bottom: 50px;
     padding-top: 10px;
